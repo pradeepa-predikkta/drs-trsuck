@@ -1,0 +1,19 @@
+/******************************************************************************/
+/*	Panel																	  */
+/******************************************************************************/
+
+.to-to
+{
+	display:none;
+	width:1080px;
+}
+
+.to .to-table-line-separator
+{
+	border-top:solid 2px #E4E4E4;
+}
+
+.to .to-table-line-separator:first-child
+{
+	border-top:none;
+}

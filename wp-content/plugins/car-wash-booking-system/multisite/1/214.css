@@ -1,0 +1,122 @@
+			.cbs-main.cbs-location-214 a,
+			.cbs-main.cbs-location-214 .cbs-button,
+			.cbs-main.cbs-location-214 .cbs-booking-summary>li>h5,
+			.cbs-main.cbs-location-214 .cbs-package-list>li>.cbs-package-price
+			{
+				color:#1ABC9C;
+			}
+
+			.cbs-main.cbs-location-214 .cbs-button:hover,
+			.cbs-main.cbs-location-214 .cbs-state-selected>.cbs-button,
+			.cbs-main.cbs-location-214 .cbs-state-selected>.cbs-button-box>.cbs-button,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li:hover,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li.cbs-state-selected,
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-step,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-left:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-right:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-subheader .cbs-calendar-subheader-day-number.cbs-state-selected,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data a:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data .cbs-state-selected>a,
+			.cbs-main.cbs-location-214 .cbs-to-tab.ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+			.cbs-main.cbs-location-214 .cbs-to-tab.ui-tabs .ui-tabs-nav li.ui-state-hover a
+			{
+				background-color:#1ABC9C;
+			}
+
+			.cbs-main.cbs-location-214 .cbs-button,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li:hover,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li.cbs-state-selected,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-left:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-right:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-subheader .cbs-calendar-subheader-day-number.cbs-state-selected,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data a:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data .cbs-state-selected>a
+			{
+				border-color:#1ABC9C;
+			}
+			.cbs-main.cbs-location-214 .cbs-button:hover,
+			.cbs-main.cbs-location-214 .cbs-state-selected>.cbs-button,
+			.cbs-main.cbs-location-214 .cbs-state-selected>.cbs-button-box>.cbs-button,
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-step,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li:hover,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li:hover .cbs-vehicle-icon,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li.cbs-state-selected,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li.cbs-state-selected .cbs-vehicle-icon,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-left:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-right:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-subheader .cbs-calendar-subheader-day-number.cbs-state-selected,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data a:hover,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data .cbs-state-selected>a,
+			.cbs-main.cbs-location-214 .cbs-to-tab.ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+			.cbs-main.cbs-location-214 .cbs-to-tab.ui-tabs .ui-tabs-nav li.ui-state-hover a
+			{
+				color:#FFFFFF;
+			}	
+			.cbs-main.cbs-location-214 .cbs-service-list>li>.cbs-service-name,
+			.cbs-main.cbs-location-214 .cbs-package-list>li>.cbs-package-name,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-caption,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-subheader .cbs-calendar-subheader-day-number,
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-header>span
+			{
+				color:#223242;
+			}
+			
+			.cbs-main.cbs-location-214 .cbs-form .cbs-form-summary .cbs-form-info,
+			.cbs-main.cbs-location-214 .cbs-package-list>li>.cbs-package-service-list>li,
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-subheader,
+			.cbs-main.cbs-location-214 .cbs-service-list>li>div.cbs-service-name .cbs-more-content,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data a,
+			.cbs-main.cbs-location-214 .cbs-form textarea,
+			.cbs-main.cbs-location-214 .cbs-form input[type="text"]
+			{
+				color:#4a5f73;
+			}
+			.cbs-main.cbs-location-214 .cbs-form label,
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li,
+			.cbs-main.cbs-location-214 .cbs-booking-summary>li>span,
+			.cbs-main.cbs-location-214 .cbs-package-list>li>.cbs-package-duration,
+			.cbs-main.cbs-location-214 .cbs-service-list>li>div.cbs-service-price,
+			.cbs-main.cbs-location-214 .cbs-service-list>li>div.cbs-service-duration,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-subheader .cbs-calendar-subheader-day-name,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-subheader .cbs-calendar-subheader-day-number.cbs-state-disable
+			{
+				color:#7a8c9d;
+			}	
+			.cbs-main.cbs-location-214 .cbs-vehicle-list>li,
+			.cbs-main.cbs-location-214 .cbs-package-list>li,
+			.cbs-main.cbs-location-214 .cbs-service-list>li,
+			.cbs-main.cbs-location-214 .cbs-booking-summary>li,
+			.cbs-main.cbs-location-214 .cbs-form .cbs-form-field,
+			.cbs-main.cbs-location-214 .cbs-package-list>li>.cbs-package-duration,
+			.cbs-main.cbs-location-214 .cbs-calendar tr>th,
+			.cbs-main.cbs-location-214 .cbs-calendar tr>td,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-subheader .cbs-calendar-subheader-day-number,
+			.cbs-main.cbs-location-214 .cbs-calendar .cbs-calendar-data a,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-left,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-right,
+			.cbs-main.cbs-location-214 .cbs-to-tab.ui-tabs .ui-tabs-nav li,
+			.cbs-main.cbs-location-214 .cbs-coupon-code input[name="coupon_code"]
+			{
+				border-color:#E2E6E7;
+			}
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item.cbs-state-disable>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-step
+			{
+				background-color:#E2E6E7;
+			}
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item.cbs-state-disable>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-step>span
+			{
+				color:#FFFFFF;
+			}
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item.cbs-state-disable>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-header>span,
+			.cbs-main.cbs-location-214 .cbs-main-list>li.cbs-main-list-item.cbs-state-disable>div.cbs-main-list-item-section-header>.cbs-main-list-item-section-header-subheader>span
+			{
+				color:#D3D9DA;
+			}
+			.cbs-main.cbs-location-214 .cbs-meta-icon,
+			.cbs-main.cbs-location-214 .cbs-vehicle-icon,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-left,
+			.cbs-main.cbs-location-214 .cbs-calendar-header .cbs-calendar-header-arrow-right
+			{
+				color:#33495E;
+			}

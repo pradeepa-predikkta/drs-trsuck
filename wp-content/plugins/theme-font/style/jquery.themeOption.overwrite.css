@@ -1,0 +1,42 @@
+/******************************************************************************/
+/*	Panel																	  */
+/******************************************************************************/
+
+.to-tf
+{
+	display:none;
+	width:1080px;
+}
+
+	/**************************************************************************/
+	/*	Panel / Content													      */
+	/**************************************************************************/
+
+	.to.to-tf .to-content,
+	.to.to-tf .to-content .to-content-left,
+	.to.to-tf .to-content .to-content-right
+	{
+		
+	}
+	
+		/**********************************************************************/
+		/*	Panel / Content / Left										      */
+		/**********************************************************************/
+	
+						.to.to-tf .to-content .to-content-left #to_menu li a
+						{
+							height:auto;
+							padding:10px 15px 10px 15px;
+						}
+		
+							.to.to-tf .to-content .to-content-left #to_menu li ul li a
+							{
+								height:auto;
+								padding:10px 20px 10px 20px;	
+							}
+							
+								.to.to-tf .to-content .to-content-left #to_menu li a i
+								{
+									float:right;
+									font-style:normal;
+								}

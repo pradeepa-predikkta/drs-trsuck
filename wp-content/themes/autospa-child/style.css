@@ -1,0 +1,23 @@
+/*
+Theme Name:   Autospa Child
+Template:     autospa
+Author:       QuanticaLabs
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  autospa-child
+*/
+
+/* header */
+.theme-page-header .theme-page-header-top-logo { margin-left: 5%; margin-top: 10px; }
+/* social icons */
+.theme-page-header-top-social-list li a, .theme-component-social-profile li a {
+    pointer-events: none;
+}
+/* header */
+.theme-page-header-top-menu ul li a {
+    color: #000 !important;
+}
+.theme-page-header-sticky .theme-page-header-top-menu.theme-page-header-top-menu-default a {
+    color: #199CDB !important;
+}
