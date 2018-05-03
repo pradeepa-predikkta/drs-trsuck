@@ -25,5 +25,5 @@ Text Domain:  autospa-child
 .theme-page-header .theme-page-header-top .theme-page-header-top-social-list > a.theme-icon-meta-cart > span:first-child{ background: #000 !important; color: #fff !important; }
 .theme-page-header .theme-page-header-top .theme-page-header-top-social-list > a.theme-icon-meta-cart > span:first-child + span{ border-top: #000 !important; }
 .theme-page-header .theme-page-header-top .theme-page-header-top-social-list > a.theme-icon-meta-cart > span:first-child + span:hover, .theme-page-header .theme-page-header-top .theme-page-header-top-social-list > a.theme-icon-meta-cart > span:first-child:hover{ color: #000 !important; background: #000 !important; border: #000 !important; } 
-.theme-page-header-top.theme-clear-fix { background: #fff !important;}
+.theme-page-header-top.theme-clear-fix { background: rgba(255, 255, 255, 0.9);}
 .theme-page-header .theme-page-header-top .theme-page-header-top-logo{ padding: 19px 40px 0px 40px; }
