@@ -26,4 +26,7 @@ body .vc_row{ padding-top: 0; }
 .theme-icon-meta-cart{ display: none; }
 /* hidden catergories from blog left */
 .theme-column-left.is_stuck #categories-3 {  display: none !important;}
-
+.theme-revolution-slider-header { color: #00adee !important; background: #fff; padding: 5px 7px; font-size: 45px !important;}
+.theme-page-header .theme-page-header-top .theme-page-header-top-menu.theme-page-header-top-menu-default > ul ul{ background-color: #fff !important;}
+/* tag from post */
+#tag_cloud-2 { display: none;}
