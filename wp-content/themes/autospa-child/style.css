@@ -10,17 +10,13 @@ Text Domain:  autospa-child
 
 /* header */
 .theme-page-header .theme-page-header-top-logo { margin-left: 5%; margin-top: 10px; }
+body .vc_row{ padding-top: 0; }
+.page-template-page .theme-component-header-subheader-header.theme-header-underline {  padding-top: 120px;}
 /* social icons */
-.theme-page-header-top-social-list li a, .theme-component-social-profile li a {
-    pointer-events: none;
-}
+.theme-page-header-top-social-list li a, .theme-component-social-profile li a { pointer-events: none;}
 /* header */
-.theme-page-header-top-menu ul li a {
-    color: #000 !important;
-}
-.theme-page-header-sticky .theme-page-header-top-menu.theme-page-header-top-menu-default a {
-    color: #199CDB !important;
-}
+.theme-page-header-top-menu ul li a { color: #000 !important;}
+.theme-page-header-sticky .theme-page-header-top-menu.theme-page-header-top-menu-default a { color: #199CDB !important;}
 .theme-page-header-top-social-list li a, .theme-icon-meta-cart, .theme-icon-meta-search{ color: #000 !important; }
 .theme-page-header .theme-page-header-top .theme-page-header-top-social-list > a.theme-icon-meta-cart > span:first-child{ background: #000 !important; color: #fff !important; }
 .theme-page-header .theme-page-header-top .theme-page-header-top-social-list > a.theme-icon-meta-cart > span:first-child + span{ border-top: #000 !important; }
@@ -28,3 +24,6 @@ Text Domain:  autospa-child
 .theme-page-header-top.theme-clear-fix { background: rgba(255, 255, 255, 0.9);}
 .theme-page-header .theme-page-header-top .theme-page-header-top-logo{ padding: 19px 40px 0px 40px; }
 .theme-icon-meta-cart{ display: none; }
+/* hidden catergories from blog left */
+.theme-column-left.is_stuck #categories-3 {  display: none !important;}
+
